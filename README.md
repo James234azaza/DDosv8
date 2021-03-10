@@ -10,12 +10,12 @@ pkg install python2
 
 pkg install git
 
-git clone
+git clone https://github.com/James234azaza/DDosv8/tree/main
 
 ls
 
-cd SMS
+cd DDosv8
 
 ls
 
-python3 jamesSMS.py
+python3 httpsv8.py
