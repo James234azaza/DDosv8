@@ -10,7 +10,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/James234azaza/DDosv8/tree/main
+git clone https://github.com/James234azaza/DDosv8
 
 ls
 
